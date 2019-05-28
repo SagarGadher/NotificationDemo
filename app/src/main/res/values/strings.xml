@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="big_text_notification">this is the demo app of the big text notification.This app also include the big picture notification, progress notification and direct reply notification.</string>
+</resources>
